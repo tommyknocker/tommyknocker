@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vasiliy 👋
 
-<!--
-**tommyknocker/tommyknocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Fullstack Engineer & Tech Lead with 19+ years in software development.
+I design pragmatic architectures, lead small teams, and build AI-powered tools
+that actually ship.
 
-Here are some ideas to get you started:
+**What I care about:** simple architecture that grows with real needs (KISS, YAGNI),
+clear layer boundaries, and short time to market, especially in the AI era.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently
+- Building an AI agent that takes development tasks from analysis to code (Python, LangGraph)
+- Learning and writing Go
+- Shipping small, useful open-source tools
+
+### 📦 Featured projects
+- **[pdo-database-class](https://github.com/tommyknocker/pdo-database-class)**: framework-agnostic PHP database library for MySQL, MariaDB, PostgreSQL, SQLite, MSSQL and Oracle
+- **[job-xray](https://jobxray.ru)**: browser extension that reveals hidden hh.ru vacancy stats (response counts, real posting age, unprocessed queue)
+- **[struct](https://github.com/tommyknocker/struct)**: lightweight PHP 8.1+ structure helper with attribute-based validation
+
+### 🛠 Stack
+PHP · Go · Python · PostgreSQL · MySQL · ClickHouse · RabbitMQ · Redis · Docker · LangGraph · Linux
+
+### 📫 Contact
+[krivoplyas.com](https://krivoplyas.com)
