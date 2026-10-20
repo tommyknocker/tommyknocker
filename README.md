@@ -1,6 +1,6 @@
 # Hi, I'm Vasiliy 👋
 
-Senior Fullstack Engineer & Tech Lead with 19+ years in software development.
+Tech Lead & Senior Software Engineer (Backend, AI) with 19+ years in software development.
 I design pragmatic architectures, lead small teams, and build AI-powered tools
 that actually ship.
 
